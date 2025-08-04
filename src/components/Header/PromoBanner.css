@@ -1,0 +1,23 @@
+/* Promotional Banner */
+.promo-banner {
+    background-color: #f5f5dc;
+    padding: 8px 0;
+    font-size: 14px;
+}
+
+.promo-text {
+    color: #000;
+    font-weight: 500;
+}
+
+.shop-now-btn {
+    color: #000;
+    text-decoration: underline;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.shop-now-btn:hover {
+    color: #666;
+    text-decoration: none;
+} 

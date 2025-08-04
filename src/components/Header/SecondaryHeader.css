@@ -1,0 +1,40 @@
+/* Secondary Header */
+.secondary-header {
+    background-color: #fff;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.language-currency {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+}
+
+.language, .currency {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #666;
+}
+
+.utility-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    font-size: 14px;
+}
+
+.utility-link {
+    color: #666;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: color 0.3s;
+}
+
+.utility-link:hover {
+    color: #333;
+    text-decoration: none;
+} 
